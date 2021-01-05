@@ -18,7 +18,7 @@
   "author": "Adarsh",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "canvas": "^2.6.0",
     "commander": "^3.0.2",
